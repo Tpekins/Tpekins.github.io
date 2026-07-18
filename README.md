@@ -144,9 +144,9 @@ Currently based in **Buea, Cameroon** 🌍
 
 - Building scalable backend systems with **Node.js** and **NestJS**
 - Developing cross-platform mobile apps with **React Native**
-- Designing data-driven solutions and analytics dashboards
-- IoT and embedded systems expertise
-- Deepening cloud infrastructure and deployment skills
+- Designing data-driven solutions and analytics dashboards.
+- IoT and embedded systems expertise.
+- Deepening cloud infrastructure and deployment skills.
 
 
 ## 🌐 Languages
